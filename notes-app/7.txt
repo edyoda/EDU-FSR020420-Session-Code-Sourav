@@ -1,7 +1,0 @@
-Challenge: Setup remove command
-
-1. Setup a remove command to take a required "--title" option. 
-2. Create and export a removeNote function in notes.js
-3. Call removeNote in remove command handler function. 
-4. Have removeNote log the title of the note to be removed. (just use console.log for now)
-5. Test your work using: node app.js remove --title="some title"
