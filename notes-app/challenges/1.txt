@@ -1,0 +1,5 @@
+Challenge 1: Append a message to notes.txt
+ 
+1) use appendFileSync to append to the file
+2) Run the script
+3) Check your file by opening it.

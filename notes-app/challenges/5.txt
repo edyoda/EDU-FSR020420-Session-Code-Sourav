@@ -1,0 +1,6 @@
+Challenge: Add an option to yargs
+
+1. Setup a body option for the add command
+2. Configure a description. Make it required and for it to be a string. 
+3. Log both the values (title and body) in handler function. 
+4. Test your work!

@@ -1,0 +1,11 @@
+Challenge: Wire up the removeNote function. 
+
+1. Load existing notes. 
+2. Use array filter method to remove the matching note if any. 
+3. Save newly created array. 
+4. Test your work with a title that exists. And with a title that does not exist. 
+
+Challenge: Use chalk to provide useful logs to remove notes. 
+
+1) If a note a removed, print 'Note removed!' with a green background. 
+2) If no note is removed, print "No note found!' in red background. 

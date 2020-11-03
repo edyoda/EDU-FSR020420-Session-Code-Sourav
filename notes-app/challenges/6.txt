@@ -1,0 +1,11 @@
+Challenge: Work with JSON and file system 
+
+person = {
+    name: 'sourav',
+    place: 'Bangalore',
+}
+
+1. Load and parse the JSON data. ( i ll provide the object )
+2. Change the name and age property using your info
+3. Stringify the changed data and overwrite the original data
+4. Test your work by viewing your json file.
