@@ -1,0 +1,11 @@
+Challenge
+
+1. Print: "It is currently <response.body.current.temperature> degrees out. It feels like <response.body.current.feelslike> degrees out."
+2. Test your work.
+
+Next Challenge
+
+1. Use the weather stack documentation, to find out how to change the units of your response. 
+2. Convert this output in degrees to fahrenheit. 
+3. documentation -> units 
+4. "<Weather-desciption>: It is currently <response.body.current.temperature> F out. It feels like <response.body.current.feelslike> F out."
