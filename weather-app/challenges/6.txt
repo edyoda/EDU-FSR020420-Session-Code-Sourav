@@ -1,0 +1,6 @@
+// Goal: Accept location via command line
+
+1. Access the command line without yargs. 
+2. Use the string value as input for geocode.
+3. Only geocode if a location was provided. 
+4. Test your code. 

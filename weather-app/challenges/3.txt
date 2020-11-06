@@ -1,0 +1,6 @@
+Goal: Handler errors for geocoding request
+
+1. Setup an error-handler for low level requests
+2. Test by disabling your internet and trying (later)
+3. Setup error handling for no matching results.
+4. Test by altering the search term and running the app.

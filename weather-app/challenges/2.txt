@@ -1,0 +1,10 @@
+Geocoding
+
+Address -> Lat/Long -> Weather
+
+Goal: Print lat/long for Bangalore
+
+1. Fire off a new request to the URL explored in browser
+2. Have the request module parse it as json. 
+3. Print both latitude and longitude. 
+4. Test your work
