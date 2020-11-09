@@ -6,16 +6,16 @@ if (!address) {
     return console.log('Please provide the location!')
 }
 // Location -> Latitude/Longitude
-geocode(address, (error, data) => {
+geocode(address, (error, { longitude, latitude, place_name } = {}) => {
     if (error){
         return console.log('Error = ', error)
     }
     // Latitude/Longitude -> Weather data
-    forecast(data.latitude, data.longitude, (error, forecastData) => {
+    forecast(latitude, longitude, (error, forecastData) => {
         if (error) {
             return console.log('Error = ', error)
         }
-        console.log('Place = ', data.place_name)
+        console.log('Place = ', place_name)
         console.log(forecastData) 
     })
 })

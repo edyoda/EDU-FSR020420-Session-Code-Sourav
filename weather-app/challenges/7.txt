@@ -2,4 +2,4 @@
 
 1. Use destructuring in app.js, forecast.js and geocode.js
 2. Use property shorthand in forecast.js and geocode.js
-3. Test your work and ensure that app still works
+3. Test your work and ensure that app still works.
